@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184205633371",
+    "firebase_url": "https://admin-20b36.firebaseio.com",
+    "project_id": "admin-20b36",
+    "storage_bucket": "admin-20b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184205633371:android:545cbd4aa0eaba63",
+        "android_client_info": {
+          "package_name": "com.example.ayatbahaa.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184205633371-0jt1uq7ununjd5loijhlo5j90r5upkbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayatbahaa.admin",
+            "certificate_hash": "a258ef5a9701891871b71a99d4ed0bb612a10c04"
+          }
+        },
+        {
+          "client_id": "184205633371-mru52ndk29274n10j60k672tq0drdtof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm07SDE3x9JhE4bAIf5wP2_-kt-7z3QpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184205633371-mru52ndk29274n10j60k672tq0drdtof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
